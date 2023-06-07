@@ -4,16 +4,12 @@
 ![Unique Visitors](https://visitor-badge.laobi.icu/badge?page_id=dr-sanjay.Dr-Sanjay&title=unique%20visitors)
 
 
-## Data Visualization
+### GitHub Stats
 
-You can visualize the data using interactive plots created with Plotly.
+You can find more detailed GitHub statistics in the [GitHub Stats Notebook](notebooks/github_stats.ipynb). Below are a couple of example visualizations:
 
-### Example Bar Chart
+![Commit Counts by Repository](images/commit_counts.png)
 
-Here's an example of a bar chart created using Plotly:
-
-![Bar Chart](images/bar_chart.png)
-
-To view the interactive version of the chart and explore the data further, please refer to the [Jupyter Notebook](notebooks/visualization.ipynb) in the repository.
+![Star Counts vs Fork Counts](images/star_fork_counts.png)
 
 
