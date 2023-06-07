@@ -6,7 +6,7 @@
 
 ### GitHub Stats
 
-You can find more detailed GitHub statistics in the [GitHub Stats Notebook](notebooks/github_stats.ipynb). Below are a couple of example visualizations:
+You can find more detailed GitHub statistics in the [GitHub Stats Notebook](https://github.com/Dr-Sanjay/Dr-Sanjay/blob/main/notebooks/stats.ipynb). Below are a couple of example visualizations:
 
 ![Commit Counts by Repository](images/commit_counts.png)
 
