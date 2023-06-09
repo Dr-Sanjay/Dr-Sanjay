@@ -7,4 +7,4 @@
 
 [![Unique Views](https://views.whatilearened.today/views/github/Dr-Sanjay/Dr-Sanjay.svg?exclude_owner=true)](https://github.com/Dr-Sanjay/Dr-Sanjay)
 
-[![Views](https://img.shields.io/badge/Views-Google%20Analytics-blueviolet)](https://your-hosted-url.com/index.html)
+[![Views](https://img.shields.io/badge/Views-G%20A-blueviolet)](https://github.com/Dr-Sanjay/Dr-Sanjay/blob/main/index.html)
